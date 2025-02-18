@@ -1,2 +1,4 @@
-# Next.js (Personal Template)
-This is my personal Next.js template, designated for me and already used in many and future projects.
+# Identity Verification (Demo)
+This is my personal demo of my creation, an identity verification, powered by AWS Rekognition, from scratch.
+
+Everything in this repository is an experiment and its functionality is subject to change, so take at your own risk if you want to try this.
